@@ -1,4 +1,4 @@
-# 🚀 Hashira Placements Assignment – Polynomial Reconstruction
+# 🚀 Assignment of Json to Maths – Polynomial Reconstruction
 
 ## 📋 Problem Statement
 
